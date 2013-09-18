@@ -11,12 +11,13 @@ Assumptions:
 Preface: 
   Create a workspace from Eclipse IDE (if you already have a workspace created, skip this step). 
   Clone this project inside the workspace associated.
-  git clone git@github.com:Johaned/MyFirstMHPGUI.git
+  
+    git clone git@github.com:Johaned/MyFirstMHPGUI.git
 
 
 In the MyFirstMHPGUI directory runs the example refactor script
 
-./example_refactor.sh
+    ./example_refactor.sh
 
 Import the project from Eclipse IDE
 
